@@ -21,14 +21,4 @@ void compAutoRedRight() {
 void testAutoDrive() {
   driveRobot(64);
   delay(2000);
-  chassisStopDrive();
-  delay(2000);
-  driveRobot(64);
-  delay(2000);
-  chassisStopDrive();
-  delay(2000);
-  driveRobot(64);
-  delay(2000);
-  chassisStopDrive();
-  delay(2000);
 }
